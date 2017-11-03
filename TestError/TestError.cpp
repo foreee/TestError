@@ -23,6 +23,7 @@ public:
 	}
 };
 
+
 class ArguClass
 {
 	char* name;
@@ -41,6 +42,7 @@ public:
 		throw ExceptionClass();
 	}
 };
+
 int main()
 {
 	ArguClass e("haha");
